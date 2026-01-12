@@ -333,16 +333,3 @@ This repository is intended for **learning and reference purposes**.
 Feel free to fork, experiment, and extend.
 
 ---
-
-```
-
----
-
-If you want next:
-- 📁 Repo folder structure (`policies/`, `manifests/`, `docs/`)
-- 🧠 Mermaid diagrams instead of images
-- 🎯 Red Hat DO280 / RHACM enablement alignment
-- 🧾 Blog-style version for LinkedIn or Medium
-
-Just say the word.
-```
