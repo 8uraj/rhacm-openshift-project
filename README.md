@@ -1,9 +1,4 @@
-Below is a **complete, clean, GitHub-ready `README.md`** you can **copy-paste directly into your repository**.
-It is structured, professional, and aligned with **Red Hat learning-repo standards**.
 
----
-
-````markdown
 # RHACM HyperShift Auto-Import Learning Repository
 
 This repository demonstrates an **end-to-end automated workflow** to discover and import **OpenShift HyperShift Hosted Control Plane (HCP)** clusters into **Red Hat Advanced Cluster Management for Kubernetes (RHACM)** using the **Multi-Cluster Engine (MCE)** and **policy-based automation**.
