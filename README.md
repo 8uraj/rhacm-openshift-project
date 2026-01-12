@@ -9,7 +9,7 @@ The goal is to eliminate manual cluster onboarding and enable **scalable, govern
 
 ## 📌 Architecture Overview
 
-![RHACM Architecture]([https://access.redhat.com/webassets/avalon/d/Red_Hat_Advanced_Cluster_Management-Overview-Architecture.png](https://developers.redhat.com/sites/default/files/styles/article_floated/public/acm_cluster_lp_fig_1.1.png.webp?itok=49r35l39))
+![RHACM Architecture](https://developers.redhat.com/sites/default/files/acm_cluster_lp_fig_1.1.png)
 ![HyperShift Architecture](https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2023/05/hypershift-architecture.png)
 
 ### Core Components
