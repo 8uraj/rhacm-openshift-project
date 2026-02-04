@@ -319,6 +319,7 @@ It supports **fully automated** and **hybrid manual + automated** workflows.
 
 ## 📚 References
 
+* [https://developers.redhat.com/learning/learn:openshift:simplify-multi-cluster-management-auto-import-hosted-clusters-rhacm/resource/resources:prepare-advanced-cluster-management-hub](https://developers.redhat.com/learning/learn:openshift:simplify-multi-cluster-management-auto-import-hosted-clusters-rhacm/resource/resources:prepare-advanced-cluster-management-hub)
 * [https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes](https://docs.redhat.com/en/documentation/red_hat_advanced_cluster_management_for_kubernetes)
 * [https://docs.redhat.com/en/documentation/openshift_container_platform](https://docs.redhat.com/en/documentation/openshift_container_platform)
 * [https://hypershift.openshift.io/](https://hypershift.openshift.io/)
